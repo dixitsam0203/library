@@ -1,0 +1,35 @@
+{
+    "books": [
+        "Vistas",
+        "Invention",
+        "Rich & Poor",
+        "Indian",
+        "Macroeconomics",
+        "Microeconomics",
+        "Horror Story",
+        "Justice",
+        "Murder Mystery",
+        "God & Devil",
+        "Social Awareness",
+        "Society",
+        "Evolution of the Mankind",
+        "Business Development",
+        "Relationships",
+        "48 Laws of Power"
+    ],
+    "issued_books": {},
+    "transactions": [
+        {
+            "action": "borrowed",
+            "user": "Sameer",
+            "book": "48 Laws of Power",
+            "timestamp": "2025-08-31 18:04:25"
+        },
+        {
+            "action": "returned",
+            "user": "Sameer",
+            "book": "48 Laws of Power",
+            "timestamp": "2025-08-31 18:05:36"
+        }
+    ]
+}
