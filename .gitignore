@@ -1,0 +1,6 @@
+# Ignore the user activity JSON file
+library_data.json
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
